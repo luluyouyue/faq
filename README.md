@@ -12,7 +12,7 @@
 
 # 项目思路
 
-![image](https://github.com/luluyouyue/faq/blob/master/images/faq.jpg)
+![image](https://github.com/luluyouyue/faq/blob/master/images/faq.png)
 
 # 项目效果
 
