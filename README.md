@@ -11,7 +11,7 @@
 2、提供faq解决方案。
 
 # 项目思路
-
+faq流程如下图：
 ![image](https://github.com/luluyouyue/faq/blob/master/images/faq.png)
 
 # 项目效果

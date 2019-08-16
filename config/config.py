@@ -14,7 +14,7 @@ def _init():
     global _global_dict
     _global_dict = {}
     conf = ConfigParser()
-    conf.read(os.path.join(cur_dir, "../", "config", "lark_bot_nlp.conf"))
+    conf.read(os.path.join(cur_dir, "../", "config", "my.conf"))
     _global_dict['conf'] = conf
 
 

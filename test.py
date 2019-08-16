@@ -1,5 +1,5 @@
-import dal_faq
 
 
 
-print 'hello test'
+if __name__ == '__main__':
+    pass
