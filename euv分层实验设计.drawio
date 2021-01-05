@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T04:02:25.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="13.10.1" etag="Yvo0d74LKGx_CcbTpXz0" type="github"><diagram id="lbvb4HyFu6EqQDqNMiZb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-05T04:04:38.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="dhcEshw5aPIFUyLnP29T" version="13.10.1" type="github">
+  <diagram id="lbvb4HyFu6EqQDqNMiZb" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HG6aWNK1kVpoXM7aeX5J-2" value="tmix（36%）" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HG6aWNK1kVpoXM7aeX5J-3" value="ta1（64%）" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="80" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
